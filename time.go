@@ -12,6 +12,8 @@ import (
 var TimeLayouts = []string{
 	"Mon, _2 Jan 2006 15:04:05 MST",
 	"Mon, _2 Jan 2006 15:04:05 -0700",
+	"_2 Jan 2006 15:04:05 MST",
+	"_2 Jan 2006 15:04:05 -0700",
 	time.ANSIC,
 	time.UnixDate,
 	time.RubyDate,
